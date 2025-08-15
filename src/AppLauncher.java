@@ -1,4 +1,4 @@
-//Developed By: Mijanur_Rahman_Oli,Muhammad_Kawser_Azim,Rayhan_Rahman,Seam_Islam
+//Developed By: Sheikh Mijanur Rahman Oli, Muhammad Kawser Azim, Rayhan Rahman, Seam Islam
 
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
